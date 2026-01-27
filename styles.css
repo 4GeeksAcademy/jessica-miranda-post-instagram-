@@ -1,0 +1,13 @@
+body{ 
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+}
+
+.post {
+        background-color: white;
+        width:300px;
+        height:400px;
+}
